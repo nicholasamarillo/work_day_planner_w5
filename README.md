@@ -20,3 +20,5 @@ If all tests are passed then HURRAY!!!
 
 LIVE LINK TO THE WEBSITE:
 
+
+![](/assets/images/work_planner_finished.png "Finished Work Planner")
