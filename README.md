@@ -18,7 +18,7 @@ To test this application:
 
 If all tests are passed then HURRAY!!!
 
-LIVE LINK TO THE WEBSITE:
+LIVE LINK TO THE WEBSITE: https://nicholasamarillo.github.io/work_day_planner_w5/
 
 
 ![](/assets/images/work_planner_finished.png "Finished Work Planner")
